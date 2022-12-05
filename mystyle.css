@@ -1,12 +1,11 @@
 h1 {
   color : green;
-fot-size 30pt ; 
+font-size 30pt ; 
 }
-<body> {
+body {
   background-image: url ("https://www.rawpixel.com/image/3016312/free-illustration-vector-gradient-background-colorful")
 }
-div a {
+div {
   text-align: center;
 }
-<div> <h1>Hello World!</h1> </div>
-</body>
+
