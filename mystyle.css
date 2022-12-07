@@ -11,9 +11,19 @@ div {
 
 p {
   color: blue;
-  font-size: 20;
-  font-family: Courier New, Monospace;
+  font-size: 15;
 }
+
+.f1 { 
+  font-family: "Brush Script MT", Cursive; 
+}
+
+.f2 {
+  font-family: "Lucida Handwriting", Cursive;
+}
+
+.p3 {
+  font-family
 
 li {
   color: green;
