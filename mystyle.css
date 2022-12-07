@@ -10,11 +10,21 @@ div {
 }
 
 p {
-  color: orange;
+  color: blue;
   font-size: 20;
 }
 
 li {
   color: green;
   font-size 20;
+}
 
+.p {
+  font-family: Courier New, Monospace;
+}
+
+p.oblique {
+  font-style: oblique;  
+} 
+
+<p class="oblique">How to bake a cake.</p>
