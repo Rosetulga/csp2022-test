@@ -12,6 +12,7 @@ div {
 p {
   color: blue;
   font-size: 20;
+  font-family: Courier New, Monospace;
 }
 
 li {
@@ -19,11 +20,5 @@ li {
   font-size 20;
 }
 
-.p {
-  font-family: Courier New, Monospace;
-}
-
-p.oblique {
+.oblique {
   font-style: oblique;  
-} 
-<p class="oblique">How to bake a cake.</p>
