@@ -31,3 +31,10 @@ li {
 .oblique {
   font-style: oblique;  
 }
+
+  .odd {
+     background-color:	#FA8072;
+     }
+     .even {
+     background-color:#FFF5EE;
+     }
