@@ -43,7 +43,7 @@ li {
       width: 400px;
       background-color: yellow;
       padding: 10px;
-      border: 30px ridge green;
+      border: 30px solid green;
       margin-left: auto;
       margin-right: auto;
       }
