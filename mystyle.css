@@ -39,10 +39,10 @@ li {
      background-color:#FFF5EE;
      }
 
- section {
-  width: 90px;
-  background-color: white;
-  padding: 80px;
-  border: 30px pink;
-  margin: 40px;
-  }
+    section {
+      width: 400px;
+      background-color: yellow;
+      padding: 10px;
+      border: 30px solid green;
+      margin-left: 100px;
+      }
