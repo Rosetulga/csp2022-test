@@ -38,3 +38,11 @@ li {
      .even {
      background-color:#FFF5EE;
      }
+
+ section {
+  width: 90px;
+  background-color: white;
+  padding: 80px;
+  border: 30px pink;
+  margin: 40px;
+  }
