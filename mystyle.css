@@ -39,19 +39,21 @@ li {
      background-color:#FFF5EE;
      }
 
-    section {
+    .b {
       width: 400px;
-      background-color: yellow;
       padding: 10px;
       border: 30px solid green;
       margin-left: auto;
       margin-right: auto;
       }
-
-  .A section{
+    .a {
       width: 70px;
-      background-color: yellow;
       padding: 50px;
       border: 20px solid green;
       margin-right: auto;
       }
+
+      section {
+      background-color: yellow;
+      }
+      
