@@ -46,11 +46,12 @@ li {
       margin-left: auto;
       margin-right: auto;
       }
-    .a {
-      width: 70px;
-      padding: 50px;
+    
+      .a {
+      width: 200px;
+      padding: 40px;
       border: 20px solid green;
-      margin-right: 80px;
+      margin: 100px;
       }
 
       section {
