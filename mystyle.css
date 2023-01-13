@@ -1,5 +1,5 @@
 h1 {
-  color: red;
+  color:solid red;
 font-size: 30pt; 
 }
 body {
@@ -10,7 +10,7 @@ div {
 }
 
 p {
-  color: blue;
+  color: solid blue;
   font-size: 15;
 }
 
@@ -24,7 +24,7 @@ p {
 
 
 li {
-  color: green;
+  color: solid green;
   font-size 20;
 }
 
@@ -55,7 +55,7 @@ li {
       }
 
       section {
-      background-color: pink;
+      background-color: solid pink;
       }
 
     
